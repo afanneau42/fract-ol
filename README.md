@@ -8,8 +8,9 @@ The main difficulties are to **find mathematical expressions** and **optimize it
 
 ## **The render**
 
-https://www.youtube.com/watch?v=Ehq4TOKChyw - automatic!
-[test](https://www.youtube.com/watch?v=Ehq4TOKChyw)
+[![Watch the demo video](./.readme_images/demo.png)](https://www.youtube.com/embed/r6DjCYjN0so)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6DjCYjN0so" frameborder="0" allowfullscreen></iframe>
 
 ## **Commands availables**
 
