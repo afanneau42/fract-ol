@@ -1,27 +1,15 @@
-# **fdf**
-#### *It's the first project in the graphic branch.*
+# **Fract'ol**
+#### *It's the second project in the graphic branch.*
 
-The subject asks to code a **C** program wich can **display in 3d the given map**.
+The subject asks to code a **C** program wich can **display** a **representation of a fractal** and allow the user to **interact with it**.
 
 We are allowed to use the **minilibx library** to manipulate a window and drow in it.
-The main difficulties are to **understand the library** and **find mathematical expressions**.
+The main difficulties are to **find mathematical expressions** and **optimize it**.
 
 ## **The render**
 
-`./fdf test_maps/42.fdf`
-
-![42](/.readme_images/42.png)
-
-
-`./fdf test_maps/pylone.fdf`
-
-![pylone](/.readme_images/pylone.png)
-
-
-`./fdf test_maps/mars.fdf`
-
-![mars](/.readme_images/mars.png)
-
+https://www.youtube.com/watch?v=Ehq4TOKChyw - automatic!
+[test](https://www.youtube.com/watch?v=Ehq4TOKChyw)
 
 ## **Commands availables**
 
