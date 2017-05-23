@@ -8,16 +8,24 @@ The main difficulties are to **find mathematical expressions** and **optimize it
 
 ## **The render**
 
+
 [![Watch the demo video](./.readme_images/demo.png)](https://www.youtube.com/embed/r6DjCYjN0so)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r6DjCYjN0so" frameborder="0" allowfullscreen></iframe>
+
+## **Fractals availables**
+
+* Mandelbrot
+* Julia
+* Burning ship
 
 ## **Commands availables**
 
-* Zoom						**Q / W**
-* Height modification		**+ / -**
+* Zoom						**Scroll up / down or left click**
+* Enable / Disable Julia's variations		**v**
 * Change color				**C**
-* Debug color mod			**D**
+* Add accuracy			**+ / -**
+* Help						**H**
+* Change fractals			**1 2 3**
 * Quit						**ESC**
 
 ## **Disclaimer**
