@@ -9,7 +9,7 @@ The main difficulties are to **find mathematical expressions** and **optimize it
 ## **The render**
 
 
-[![Watch the demo video](https://github.com/afanneau42/readme_ressources/blob/master/fractol/demo.png)](https://www.youtube.com/embed/r6DjCYjN0so)
+[![Watch the demo video](https://github.com/afanneau42/readme_ressources/blob/master/fractol/demo_fractol.png)](https://www.youtube.com/embed/r6DjCYjN0so)
 
 
 ## **Fractals availables**
